@@ -12,7 +12,6 @@
         :increment="increment"
       />
     </div>
-    Fancy Shit gotta be deleted
   </b-container>
 </template>
 
